@@ -1,3 +1,11 @@
-/PA/all_matchUp_df.csv
-/PA/data
-/PA/__pycache__
+data
+**__pycache__
+.gitignore
+.DS_Store
+.idea
+.git
+**.ipynb_checkpoints
+visuals
+01-18-2023
+.RData
+.Rhistory
